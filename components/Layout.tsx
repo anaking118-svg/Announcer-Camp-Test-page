@@ -85,7 +85,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
             <div className="md:col-span-2">
               <h2 className="text-2xl font-black mb-6">아나운서 <span className="text-[#FFD700]">훈련소</span></h2>
               <p className="text-zinc-400 max-w-sm mb-6 leading-relaxed">
-                우리는 당신의 목소리가 가진 잠재력을 발견하고, 세상에 가장 아름다운 울림으로 전달될 수 있도록 돕는 프리미엄 스피치 에이전시입니다.
+                우리는 당신의 목소리가 가진 잠재력을 발견하고, 세상에 가장 아름다운 울림으로 전달될 수 있도록 돕는 스피치 교육기관입니다.
               </p>
               <div className="flex space-x-4">
                 <a href="#" className="p-2 bg-black hover:bg-[#FFD700] hover:text-black rounded-full transition-all"><Instagram size={20}/></a>
@@ -96,7 +96,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
             <div>
               <h3 className="text-lg font-bold mb-6 text-[#FFD700]">Contact</h3>
               <ul className="space-y-4 text-zinc-400 text-sm">
-                <li>서울특별시 강남구 테헤란로 123, 45층</li>
+                <li>서울특별시 영등포구 양평로2길 3 아이에스비즈타워 2105호</li>
                 <li>02-1234-5678</li>
                 <li>info@announcer-academy.co.kr</li>
               </ul>
